@@ -17,7 +17,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 |------------|------------|
 | ![Will You Be My Valentine?](ss1.png) | Initial prompt asking the user to be the valentine. |
 | ![If No is Clicked](ss2.png) | Fun interaction where the button changes behavior with pleading animations. |
-| ![If Yes is Clicked](ss3.png) | Romantic response with flower blooming and a special message. |
+| ![If Yes is Clicked]() | Romantic response with flower blooming and a special message. |
 
 ## 🎨 Customization Guide
 You can personalize this project in the following ways:
@@ -71,7 +71,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
 
 ## 🔧 Project Origin
 This project is a updated version and creative combination of two different projects:
-- [CSS Blossoming Flowers at Magical Night](https://codepen.io/mdusmanansari/pen/BamepLe) by **Md Usman Ansari**.
+- [CSS Blossoming Flowers at Magical Night](https://codepen.io/mdusmanansari/pen/BamepLe) by 
 - [Will you be my valentine](https://codepen.io/Sleeping-Bot/pen/VwREBdg) by **Sleeping-Bot**.
 
 These projects were customized and creatively merged to create a unique and interactive Valentine’s experience. 🎨✨
